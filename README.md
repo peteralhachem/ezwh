@@ -59,7 +59,7 @@ EZWH (Easy WareHouse) is a software application to support the management of a w
 
 ## Test Coverage
 
-![App Screenshot](images\coverage.png)
+![Test Coverage](images\coverage.png)
 
 ## License
 
