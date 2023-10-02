@@ -57,10 +57,6 @@ EZWH (Easy WareHouse) is a software application to support the management of a w
 - [Project Estimation](docs\Estimation.md)
 
 
-## Test Coverage
-
-![Test Coverage](images\coverage.png)
-
 ## License
 
 [AGPL License](https://www.gnu.org/licenses/agpl-3.0)
