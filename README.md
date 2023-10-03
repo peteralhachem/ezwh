@@ -34,6 +34,21 @@ EZWH (Easy WareHouse) is a software application to support the management of a w
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+## Repository Structure
+
+- `code/` - directory containing all the implementation of the backend, APIs, tests performed. 
+    - `acceptanceTest/` - directory containing all the test scripts on the all the classes considered.
+    - `api/` - directory containing all the database, controllers, test instances of all the classes considered.
+    - `db/` - directory containing the initialization of the database and table creation.
+    - `test/` - directory containing testing of routers and different scenarios.
+    - `unit_test/` - unit tests performed on all the classes of the backend. 
+    - `unit_test/integration_test` - test suites performed on the all the classes. 
+
+
+- `docs/` - Directory containing all the documentation performed prior to the deployment of the application. 
+
+- `images/` - Directory containing a representation of the test coverage performed during the testing phase of our backend.
+
 
 
 

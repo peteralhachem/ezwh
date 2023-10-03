@@ -5,7 +5,7 @@ const SkuDAO = require('../api/components/sku/dao');
 
 const TestResult = require('../api/components/test_result/testResult');
 const TestDescriptor = require('../api/components/test_descriptor/testDescriptor');
-const SkuItem = require('../api/components/skuItem/skuItem');
+const SkuItem = require('../api/components/skuItem/SKUItem');
 const Sku = require('../api/components/sku/sku');
 
 describe("Unit testing for test result", () => {
