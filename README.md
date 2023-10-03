@@ -45,9 +45,9 @@ EZWH (Easy WareHouse) is a software application to support the management of a w
     - `unit_test/integration_test` - test suites performed on the all the classes. 
 
 
-- `docs/` - Directory containing all the documentation performed prior to the deployment of the application. 
+- `docs/` - directory containing all the documentation performed prior to the deployment of the application. 
 
-- `images/` - Directory containing a representation of the test coverage performed during the testing phase of our backend.
+- `images/` - directory containing a representation of the test coverage performed during the testing phase of our backend.
 
 
 
